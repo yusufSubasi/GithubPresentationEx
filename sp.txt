@@ -1,0 +1,3 @@
+create procedure sp_yeni as
+adad varchar(20)
+ 
