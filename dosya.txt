@@ -3,8 +3,6 @@ lkngaklng
 kngalgnakl
 ölknkaldl
 ölknkaldl
-
-
+<<<<<<< Temp
 oýþokþkgj
-oýþokþkgj
-adagasafasgas
+>>>>>>> Temporary merge
